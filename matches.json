@@ -1,10 +1,21 @@
 {
-    "last_updated": "2026-08-23 06:19:51 UTC",
-    "total_matches": 139,
+    "last_updated": "2026-08-23 07:10:13 UTC",
+    "total_matches": 151,
     "matches": [
         {
+            "title": "Basketball",
+            "match_url": "https://dzritv.com/tournament/basketball/russia-ipbl-women-pro-division-4-10",
+            "time_status": "Scheduled",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                }
+            ]
+        },
+        {
             "title": "Soccer",
-            "match_url": "https://dzritv.com/tournament/football/japan-regional-league",
+            "match_url": "https://dzritv.com/tournament/football/australia-women-western-australia-premier-league",
             "time_status": "Scheduled",
             "streams": [
                 {
@@ -15,7 +26,7 @@
         },
         {
             "title": "Volleyball",
-            "match_url": "https://dzritv.com/tournament/snooker/avc-asian-championship-women-china",
+            "match_url": "https://dzritv.com/tournament/snooker/vietnam-women-youth-championship",
             "time_status": "Scheduled",
             "streams": [
                 {
@@ -37,24 +48,13 @@
         },
         {
             "title": "Cyberfootball",
-            "match_url": "https://dzritv.com/tournament//valhalla-cup",
+            "match_url": "https://dzritv.com/tournament//",
             "time_status": "Scheduled",
             "streams": []
         },
         {
-            "title": "Cybersport",
-            "match_url": "https://dzritv.com/tournament/bandy/dota-2-the-international",
-            "time_status": "Scheduled",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                }
-            ]
-        },
-        {
             "title": "Table Tennis",
-            "match_url": "https://dzritv.com/tournament/rowing/russia-liga-pro-a6-moscow",
+            "match_url": "https://dzritv.com/tournament/rowing/czech-republic-liga-pro-a18-ostrava",
             "time_status": "Scheduled",
             "streams": [
                 {
@@ -64,8 +64,53 @@
             ]
         },
         {
-            "title": "Basketball",
-            "match_url": "https://dzritv.com/tournament/basketball/russia-ipbl-pro-division-4-10",
+            "title": "Cybersport",
+            "match_url": "https://dzritv.com/tournament/bandy/league-of-legends-lpl",
+            "time_status": "Scheduled",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                }
+            ]
+        },
+        {
+            "title": "Cyberbasketball",
+            "match_url": "https://dzritv.com/tournament//basketball-nba-2k26-interactive-superliga-rfb-4x5",
+            "time_status": "Scheduled",
+            "streams": []
+        },
+        {
+            "title": "Baseball",
+            "match_url": "https://dzritv.com/tournament/golf/japan-npb",
+            "time_status": "Scheduled",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                }
+            ]
+        },
+        {
+            "title": "Beach Volleyball",
+            "match_url": "https://dzritv.com/tournament/horse-racing/austria-women-austrian-beach-tour",
+            "time_status": "Scheduled",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                }
+            ]
+        },
+        {
+            "title": "Cyberhockey",
+            "match_url": "https://dzritv.com/tournament//hockey-nhl-26-h2h-2-liga-3x4-min-khabarovsk",
+            "time_status": "Scheduled",
+            "streams": []
+        },
+        {
+            "title": "Futsal",
+            "match_url": "https://dzritv.com/tournament/gymnastique/japan-women-f-league",
             "time_status": "Scheduled",
             "streams": [
                 {
@@ -86,31 +131,8 @@
             ]
         },
         {
-            "title": "Cyberhockey",
-            "match_url": "https://dzritv.com/tournament//hockey-nhl-26-h2h-2-liga-3x4-min-khabarovsk",
-            "time_status": "Scheduled",
-            "streams": []
-        },
-        {
             "title": "Snooker",
             "match_url": "https://dzritv.com/tournament/swimming/wuhan-open-best-of-9",
-            "time_status": "Scheduled",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                }
-            ]
-        },
-        {
-            "title": "Cyberbasketball",
-            "match_url": "https://dzritv.com/tournament//basketball-nba-2k26-esportsbattle-4-5",
-            "time_status": "Scheduled",
-            "streams": []
-        },
-        {
-            "title": "Baseball",
-            "match_url": "https://dzritv.com/tournament/golf/south-korea-kbo",
             "time_status": "Scheduled",
             "streams": [
                 {
@@ -142,8 +164,8 @@
             ]
         },
         {
-            "title": "Soccer (13)",
-            "match_url": "https://dzritv.com/match/shibuya-city-ryutsu-keizai-dragons-25156186",
+            "title": "Basketball (3)",
+            "match_url": "https://dzritv.com/match/tambov-w--yaroslavl-w-25160421",
             "time_status": "Date & time",
             "streams": [
                 {
@@ -152,14 +174,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream473/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6MjkgQU0maGFzaF92YWx1ZT1YOHBqdTFkazU5R2xFSi8xM1pQN0xBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream199/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6MzYgQU0maGFzaF92YWx1ZT1WVVArZW5nNVIyRFhMTE4zd2JDZEVRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/shibuya-city-ryutsu-keizai-dragons-25156186",
-            "time_status": "2026-08-23 09:30",
+            "match_url": "https://dzritv.com/match/tambov-w--yaroslavl-w-25160421",
+            "time_status": "2026-08-23 11:05",
             "streams": [
                 {
                     "type": "iframe",
@@ -167,298 +189,13 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream473/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6MzAgQU0maGFzaF92YWx1ZT0vSldiMlRKUGZhTXdRRVh6L0dYcGR3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream199/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6MzggQU0maGFzaF92YWx1ZT03TlYrQy9BTWpGVlVjOVZQK1JFMERRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/south-melbourne-heidelberg-united-25140038",
-            "time_status": "2026-08-23 09:30",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream174/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6MzEgQU0maGFzaF92YWx1ZT1TdnpuZTBmSGs3OTRlRndINm9hOWdnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/sydney-olympic-marconi-stallions-25139856",
-            "time_status": "2026-08-23 09:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream199/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6MzIgQU0maGFzaF92YWx1ZT00d3k5VWhCbzA3a3RDUDNWMXAxMEN3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/wollongong-wolves-western-sydney-wanderers-2-25139855",
-            "time_status": "2026-08-23 09:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream202/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6MzMgQU0maGFzaF92YWx1ZT1WaU1CRHgxOGZhZUlKS0cwTUtNSG9RPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/sydney-united-apia-tigers-25139694",
-            "time_status": "2026-08-23 08:30",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream271/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6MzQgQU0maGFzaF92YWx1ZT0xOVd6R01Ib2huaGRGSmJIbXhzS3RRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/adamstown-rosebud-w--maitland-w-25141186",
-            "time_status": "2026-08-23 09:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream175/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6MzUgQU0maGFzaF92YWx1ZT1NTEhSQ2ZkUmdaSzk1SjJLS1FyWFp3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/new-lambton-w--newcastle-olympic-w-25141185",
-            "time_status": "2026-08-23 09:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream179/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6MzYgQU0maGFzaF92YWx1ZT1mV0hka295SlRxeEJhRGh2T0l6RXVRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/broadmeadow-magic-w--charlestown-azzurri-w-25141187",
-            "time_status": "2026-08-23 09:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream177/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6MzcgQU0maGFzaF92YWx1ZT1rWWFVN1F1K2t6K3FvRHNQYTJvSENRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/macarthur-rams-w--western-city-rangers-w-25159198",
-            "time_status": "2026-08-23 09:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream204/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6MzkgQU0maGFzaF92YWx1ZT1CejU4MzVzZFl6QnJzbklmNWNwNGx3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/bulls-academy-w--northern-tigers-w-25159197",
-            "time_status": "2026-08-23 08:40",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream257/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NDAgQU0maGFzaF92YWx1ZT1OTjNoMmROTGJ6d25sYy91VEVvc0xBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/melbourne-khights-langwarrin-25158771",
-            "time_status": "2026-08-23 09:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream471/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NDEgQU0maGFzaF92YWx1ZT1FQnNGU0lMdmpET2d1WUNKWXJQcEhRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/melbourne-city-2-w--south-melbourne-w-25140196",
-            "time_status": "2026-08-23 09:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream176/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NDIgQU0maGFzaF92YWx1ZT1aWWxIVmI4VWU0SDZITCtlaEdwUGxRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/bayside-argonauts-w--bundoora-united-w-25159654",
-            "time_status": "2026-08-23 09:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream472/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NDMgQU0maGFzaF92YWx1ZT05aXhwaFpvUlV1UmxJd0syZVY1bjhBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "Volleyball (3)",
-            "match_url": "https://dzritv.com/match/chinese-taipei-w--iraq-w-25159919",
-            "time_status": "Date & time",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream207/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NDQgQU0maGFzaF92YWx1ZT1oWFJHaDBuQStrWkFyNEJYT3U0VjBRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/chinese-taipei-w--iraq-w-25159919",
-            "time_status": "2026-08-23 09:55",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream207/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NDUgQU0maGFzaF92YWx1ZT1wVFEycGRYSGg3VTdDRlo1dzZBZ2VnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/volzhanin-orenburzhie-25155382",
-            "time_status": "2026-08-23 09:55",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream200/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NDcgQU0maGFzaF92YWx1ZT1WT1RSeVdpQlRjMWErQjBQRnVjRDl3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/dlsu-green-spikers-mu-cardinals-25158225",
-            "time_status": "2026-08-23 07:55",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream78/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NDggQU0maGFzaF92YWx1ZT1LdllZeEh1dzBHMEFDaTAyYWNwdjd3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "Ice Hockey (5)",
-            "match_url": "https://dzritv.com/match/gladiators-apache-east-25160090",
-            "time_status": "Date & time",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NDkgQU0maGFzaF92YWx1ZT1VZFhMWnRmMVBwNWo0WDJLakcwbEtnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/gladiators-apache-east-25160090",
-            "time_status": "2026-08-23 10:15",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NTAgQU0maGFzaF92YWx1ZT1QZFU5R3VrRWJvYUVrbWcxSzBQVDJBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/heavy-hammers-skyhawks-25160009",
-            "time_status": "2026-08-23 10:10",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NTEgQU0maGFzaF92YWx1ZT1NYTZ1R2hpMHQ2dEhhVklYVVdOL3dRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/metkie-strelki-ledovye-spartantcy-25152551",
+            "match_url": "https://dzritv.com/match/dongguan-xintong-sheng-w--xiamen-w-25160116",
             "time_status": "2026-08-23 10:00",
             "streams": [
                 {
@@ -467,917 +204,7 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream205/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NTIgQU0maGFzaF92YWx1ZT1HVk9rc0oxS1oxTDlENERFM1FhNE9BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/brisbane-lightning-sydney-ice-dogs-25160064",
-            "time_status": "2026-08-23 09:45",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream203/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NTMgQU0maGFzaF92YWx1ZT1tVFU2aVg4VC9tTS9XQVcyamRGUGRBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/melbourne-mustangs-canberra-brave-25152954",
-            "time_status": "2026-08-23 08:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream264/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NTUgQU0maGFzaF92YWx1ZT1CQzhXNVVLSmRTM2hJNEFwMGVSNUJ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "Cyberfootball (26)",
-            "match_url": "https://dzritv.com/match/holis-sevilla-fc-kylian-real-madrid-25159799",
-            "time_status": "Date & time",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream88/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NTYgQU0maGFzaF92YWx1ZT02QUJqNHFrTTFIeUxxRmhDUXFBUWdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/holis-sevilla-fc-kylian-real-madrid-25159799",
-            "time_status": "2026-08-23 10:06",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream88/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NTcgQU0maGFzaF92YWx1ZT1RNnNreVUvTmNaZFBHSDFzWUZBZzdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/castle-rcd-mallorca-bradley-real-betis-25159746",
-            "time_status": "2026-08-23 10:04",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream87/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NTggQU0maGFzaF92YWx1ZT1qaEY1OGxRYklTVU8vQy9sb0pJcWpBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/castle-ca-osasuna-hazard-getafe-cf-25159745",
-            "time_status": "2026-08-23 09:52",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream88/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTc6NTkgQU0maGFzaF92YWx1ZT1nNkwrMXpKQThKbjJnQTJHdUJGOUpnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/bradley-girona-kylian-fc-barcelona-25159617",
-            "time_status": "2026-08-23 09:50",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream87/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MDAgQU0maGFzaF92YWx1ZT1mRHU1WDI2aUxoNDVrdk1uakg3S2ZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/holis-rc-celta-hazard-getafe-cf-25159616",
-            "time_status": "2026-08-23 09:38",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream88/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MDIgQU0maGFzaF92YWx1ZT10eldQT2czRWFsV2M0MnpwTnMvRHpnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/castle-ca-osasuna--kylian-fc-barcelona-25159614",
-            "time_status": "2026-08-23 09:36",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream87/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MDMgQU0maGFzaF92YWx1ZT0wbmgzMHZnVitZTW9TRGNUMzBmT1JnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/mei-manchester-city-maddy-everton-25159869",
-            "time_status": "2026-08-23 10:05",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MDQgQU0maGFzaF92YWx1ZT16bmlyS25PNlZucWgxR3loVng3dk5BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/demi-arsenal-lexi-manchester-utd-25159868",
-            "time_status": "2026-08-23 10:03",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream85/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MDUgQU0maGFzaF92YWx1ZT1xTi9iakhOUHZabHJWa21sTGluQmtBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/maddy-everton-ava-spurs-25159795",
-            "time_status": "2026-08-23 09:51",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MDYgQU0maGFzaF92YWx1ZT13VWRnNWdhMWFSelhYZlFiUW1TYnh3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/lexi-manchester-utd-alicia-chelsea-25159794",
-            "time_status": "2026-08-23 09:49",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream85/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MDcgQU0maGFzaF92YWx1ZT03RnRvRVJubGxoZ1NlM0NwemdSR2RnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/mei-manchester-city-ava-spurs-25159734",
-            "time_status": "2026-08-23 09:37",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MDkgQU0maGFzaF92YWx1ZT01NWxmODBQalFNVUNtV21KSWU1cUpBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/brighton-alosdvxl--newcastle-legion-25160070",
-            "time_status": "2026-08-23 10:11",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream325/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MTAgQU0maGFzaF92YWx1ZT05TXptSDdyQ1AzNUU0SWNOM2tRSFN3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/aston-villa-vladl3n--man-united-dan-dragonio-25160069",
-            "time_status": "2026-08-23 10:11",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream323/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MTAgQU0maGFzaF92YWx1ZT05TXptSDdyQ1AzNUU0SWNOM2tRSFN3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/bournemouth-liverpool-25159806",
-            "time_status": "2026-08-23 10:10",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream97/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MTEgQU0maGFzaF92YWx1ZT1pSXNXR3BwUC93MmIzbEJyVWtuU0hnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/roma-flewless-phoenix--salzburg-meltosik-25160027",
-            "time_status": "2026-08-23 10:07",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream313/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MTIgQU0maGFzaF92YWx1ZT1ndmdXSVlsbHBWRUIzS2N5VjErOXd3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/aston-villa-dm1trena--porto-edwardson-25160026",
-            "time_status": "2026-08-23 10:07",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MTMgQU0maGFzaF92YWx1ZT1sV2VyMzJDWUZCMXlXb2VrUm1zUkRBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/andrew---bruno-25160021",
-            "time_status": "2026-08-23 10:05",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/matrix---logan-25160020",
-            "time_status": "2026-08-23 10:05",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/spain-foma--portugal-lloyd1337-25151829",
-            "time_status": "2026-08-23 10:05",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream560/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MTcgQU0maGFzaF92YWx1ZT1QenJKRktwblJBQzljekdja1VZakdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/brazil-v1nn--argentina-upcake22-25160012",
-            "time_status": "2026-08-23 10:04",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream294/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MTggQU0maGFzaF92YWx1ZT1Ha0JvYWhKdUJSaVlUZHUyWGNxMURRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/england-mko1919--france-bomb1to-25160011",
-            "time_status": "2026-08-23 10:04",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream292/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MjAgQU0maGFzaF92YWx1ZT14NnRhaUVKeFQ3Q2FjUnNQeURmZWpnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/italy-sheba--germany-jiraz-25157375",
-            "time_status": "2026-08-23 10:02",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream282/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MjEgQU0maGFzaF92YWx1ZT05ME9xcG5KTThRTWFoYVJKdjFoVCtBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/stuttgart-totti--bayern-tesla-25159921",
-            "time_status": "2026-08-23 10:01",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/arsenal-volvo--liverpool-riko-25159923",
-            "time_status": "2026-08-23 10:01",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream558/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MjMgQU0maGFzaF92YWx1ZT1VaVFjaTZpbStWd1MyZXlqVXdEeXZnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/man-city-zoyir--tottenham-tikitakamaster-25159922",
-            "time_status": "2026-08-23 10:01",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream557/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MjUgQU0maGFzaF92YWx1ZT1zZUxxSEo2aDhCKzlxTzUrY3d0cEdBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/france-enoxa90--netherlands-henry-25151828",
-            "time_status": "2026-08-23 10:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream283/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MjYgQU0maGFzaF92YWx1ZT1qRUdFWFpXb2lHbjNVUU02SWtac2FnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "Cybersport (14)",
-            "match_url": "https://dzritv.com/match/team-vision-team-spirit-25159761",
-            "time_status": "Date & time",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream65/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MjcgQU0maGFzaF92YWx1ZT1rdWRVOGFYbmIrYTEwNm5sVFEvNkJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/team-vision-team-spirit-25159761",
-            "time_status": "2026-08-23 10:15",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream65/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MjggQU0maGFzaF92YWx1ZT1DSjQ3N3RQNzE4aUJLZSszcjd0N2FnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/wild-bats-lsg-25160006",
-            "time_status": "2026-08-23 10:01",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream98/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MjkgQU0maGFzaF92YWx1ZT00U1Z2OWl2NmxqMkc4eTI5bW5NdXR3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/dark-rebellion-the-last-titan-25159586",
-            "time_status": "2026-08-23 08:39",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MzAgQU0maGFzaF92YWx1ZT1qbUVmaVlubTJ2eGdUVUVNZllTRXV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/lgd-gaming-kuaishow-gaming-25159984",
-            "time_status": "2026-08-23 10:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream96/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MzEgQU0maGFzaF92YWx1ZT05Y1hNbXFOTmduYWZGUjU0ejQ1Lzh3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/disaccord-tzni-25159886",
-            "time_status": "2026-08-23 09:57",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream94/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MzMgQU0maGFzaF92YWx1ZT1kMzc2MkRZYVAyMTFZOUh1d0VWaGt3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/knottyj-disaccord-25159848",
-            "time_status": "2026-08-23 09:46",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/dravari-ascend-low-static-25159882",
-            "time_status": "2026-08-23 09:54",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream64/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MzUgQU0maGFzaF92YWx1ZT10TkRIa2NsK2ZMNytQT01yNFhmdzNRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/cursed-blessing-blood-flowers-25159876",
-            "time_status": "2026-08-23 09:54",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream62/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MzYgQU0maGFzaF92YWx1ZT1DVy9pYlU4YlJQbWdFVUxSS29Ydlh3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/france-colombia-25159826",
-            "time_status": "2026-08-23 09:40",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream66/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MzggQU0maGFzaF92YWx1ZT13MXA3Z254UGNpMmg1VC9xY2wzdWxBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/glare-gaming-team-argo-25159820",
-            "time_status": "2026-08-23 09:40",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream63/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6MzkgQU0maGFzaF92YWx1ZT15RFdwMVk3NFlmOCt3alQwNS81alpBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/anima-gaming-giga-legion-25159800",
-            "time_status": "2026-08-23 09:31",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream61/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NDAgQU0maGFzaF92YWx1ZT1LTzRuOW9ZZnNkc0FHaHlheVl5OW13PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/hellspawn-stormriders-25159781",
-            "time_status": "2026-08-23 09:35",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream539/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NDEgQU0maGFzaF92YWx1ZT01NnlLWGJyZEIrVHJ2aDFYQ0JUZVF3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/family-esports-whitethunder-25159780",
-            "time_status": "2026-08-23 09:30",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream537/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NDIgQU0maGFzaF92YWx1ZT1zZkhMKzVaVlp6V2pVUGp6TkpZdlNnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/bacon-time-earena-25159766",
-            "time_status": "2026-08-23 09:15",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream343/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NDMgQU0maGFzaF92YWx1ZT1YTWhqOUxYb1FvZmRIWkpwVzltdVJRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "Table Tennis (14)",
-            "match_url": "https://dzritv.com/match/poidashev-a-burmakin-u-25156688",
-            "time_status": "Date & time",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream314/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NDQgQU0maGFzaF92YWx1ZT04RkVJMnZJOTdXYzhiS0x0cVBkMzh3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/poidashev-a-burmakin-u-25156688",
-            "time_status": "2026-08-23 10:15",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream314/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NDUgQU0maGFzaF92YWx1ZT0rUEEvMnpBOCtndGdHWWxFUEpMMzhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/potapkov-a-golovachev-e-25154470",
-            "time_status": "2026-08-23 10:15",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream281/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NDYgQU0maGFzaF92YWx1ZT1hL1FnUGh6OHRQQ2U5TUJrNmtRaENBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/hala-p-tichy-j-25156737",
-            "time_status": "2026-08-23 10:13",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream319/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NDcgQU0maGFzaF92YWx1ZT1CWWFDckw5MGZPTnhLVk11Q1JhOEhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/janik-sr-m-skvor-o-25159207",
-            "time_status": "2026-08-23 10:10",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream312/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NDggQU0maGFzaF92YWx1ZT1mcklHK0V3TjhWRm9YN0txOHk3TUd3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/kotik-a-shmyndra-y-25156736",
-            "time_status": "2026-08-23 10:03",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream317/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NTAgQU0maGFzaF92YWx1ZT1NU21aNkJiYVFqZXFIQ0ZON1dLRmJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/varchenko-v-korotin-y-25156735",
-            "time_status": "2026-08-23 10:03",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream287/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NTEgQU0maGFzaF92YWx1ZT1oYk1VNnpQOGhoREtFRjdnUGF0ZnF3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/havrda-l-hyrsl-ji-25153781",
-            "time_status": "2026-08-23 10:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/kochergin-v-manuylov-o-25156252",
-            "time_status": "2026-08-23 10:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream555/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NTMgQU0maGFzaF92YWx1ZT1rOUhqVDB1MDVSS29LR21lL3FRRkF3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/stefek-m-regner-t-25153780",
-            "time_status": "2026-08-23 10:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream550/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NTUgQU0maGFzaF92YWx1ZT1za2k1M1pTdVRYNkRmZk9TVFRGTjd3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/kutilov-s-kuznetsov-v-25153343",
-            "time_status": "2026-08-23 10:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream296/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NTYgQU0maGFzaF92YWx1ZT0zUVZVSUtoQjRuTXVIMDErL0FTM2xRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/bondarenko-y-lobanov-ar-25159016",
-            "time_status": "2026-08-23 09:58",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream324/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NTcgQU0maGFzaF92YWx1ZT1JRWtDUG51ZElic2U2eVJhajR0bE9BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/kushnirenko-s-komar-v-25156734",
-            "time_status": "2026-08-23 09:58",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream318/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NTggQU0maGFzaF92YWx1ZT1UdVAzN0dsT2dyT0lXY2hvOW9BbDBBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/dvoracek-a-hlina-p-25156733",
-            "time_status": "2026-08-23 09:58",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream315/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTg6NTkgQU0maGFzaF92YWx1ZT1DV01CK0JGWmx3dHNVSks3VVAwYm13PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/slozka-m-pytsko-i-25156731",
-            "time_status": "2026-08-23 09:53",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream289/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MDAgQU0maGFzaF92YWx1ZT1kUVVwcUt3N1hXNFR4QWwydlBrMWpBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "Basketball (5)",
-            "match_url": "https://dzritv.com/match/tikhoretsk-engels-25160065",
-            "time_status": "Date & time",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream208/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MDIgQU0maGFzaF92YWx1ZT1iSXYwcGh4Y1dpMmFLMmkwMTZjd1VnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/tikhoretsk-engels-25160065",
-            "time_status": "2026-08-23 10:10",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream208/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MDMgQU0maGFzaF92YWx1ZT1LNzdOdWNaVUVwMlFMZW9scEdTWGRRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/ukhta-vorkuta-25160089",
-            "time_status": "2026-08-23 10:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream209/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MDQgQU0maGFzaF92YWx1ZT1UK3RLRHlJL1FhSUwrbDRnKzZIL1FBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream41/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6MzkgQU0maGFzaF92YWx1ZT1keXNEVzg0dEtkQTNPb2MzN2k5b2ZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
@@ -1392,43 +219,13 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream342/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MDUgQU0maGFzaF92YWx1ZT1JYUZ2WGk1ajRrWUxyNDhmZjlHOG13PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream342/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NDAgQU0maGFzaF92YWx1ZT1BVUlRMzFpZi9QampyVGFhT1NKbnVRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/yaroslavl-w--tomsk-w-25159918",
-            "time_status": "2026-08-23 10:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream9/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MDYgQU0maGFzaF92YWx1ZT02eVFyR3NCUW1jbTZPQlVibnVrdDhRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/chinese-taipei-u23-vietnam-u23-25155885",
-            "time_status": "2026-08-23 09:55",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream206/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MDcgQU0maGFzaF92YWx1ZT12RHZVclhZWHZicUtaS3NMLzJxNFR3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "Rugby (2)",
-            "match_url": "https://dzritv.com/match/sydney-roosters-wests-tigers-25140269",
+            "title": "Soccer (9)",
+            "match_url": "https://dzritv.com/match/perth-redstar-w--perth-sc-w-25140528",
             "time_status": "Date & time",
             "streams": [
                 {
@@ -1437,13 +234,748 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream501/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MDkgQU0maGFzaF92YWx1ZT1SZVY0WHNWUDJhd2paUTVNdEdyaTVnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream204/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NDEgQU0maGFzaF92YWx1ZT11Y0NEbXR2OVFteGllbUpJL1RpMlB3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/sydney-roosters-wests-tigers-25140269",
+            "match_url": "https://dzritv.com/match/perth-redstar-w--perth-sc-w-25140528",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream204/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NDIgQU0maGFzaF92YWx1ZT1zM1htWWJQYmpaTFNFdkIyUXVmQWZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/uwa-nedlands-w--subiaco-w-25140530",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream211/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NDMgQU0maGFzaF92YWx1ZT1UcjBUSFdLZ25KUUNNNGlIc2RVZS9BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/sorrento-perth-w--balcatta-w-25140529",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream175/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NDQgQU0maGFzaF92YWx1ZT1qWTAyZ3dXdFA1aEhaMGMvT1lkcHpnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/apia-leichhardt-tigers-w--western-sydney-wanderers-2-w-25159915",
+            "time_status": "2026-08-23 10:50",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream502/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NDUgQU0maGFzaF92YWx1ZT1Tc3U5akYzOUJOUFZXNit6SEw1anhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/osaka-city-bandito-ikoma-25159423",
+            "time_status": "2026-08-23 10:30",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream474/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NDcgQU0maGFzaF92YWx1ZT0rYWFONDFVSjhyY2RJZWE5bmJ1emF3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/shibuya-city-ryutsu-keizai-dragons-25156186",
+            "time_status": "2026-08-23 09:30",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream473/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NDggQU0maGFzaF92YWx1ZT0wV1l4SDlWMjdKUWpZUnF6UVBUVGRRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/darwin-olympic-w--casuarina-w-25160187",
+            "time_status": "2026-08-23 10:30",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream210/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NDkgQU0maGFzaF92YWx1ZT1oMUxJaEZoMW5xNFFvVURtQUhaejdBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/orenburg-w--ural-urfa-w-25160271",
+            "time_status": "2026-08-23 10:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream202/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NTAgQU0maGFzaF92YWx1ZT1pWE1TRklJQVdTN2hmeXp2UTd5d2JRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/south-melbourne-heidelberg-united-25140038",
+            "time_status": "2026-08-23 09:30",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream174/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NTEgQU0maGFzaF92YWx1ZT1ZdlB0WkRJQTRuRXJEQ2hGR0RmT2hBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "Volleyball (3)",
+            "match_url": "https://dzritv.com/match/btl-thong-tin-youth-w--ha-noi-youth-w-25160264",
+            "time_status": "Date & time",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream76/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NTIgQU0maGFzaF92YWx1ZT11eFBvbkU4L2ZiM3BKTldJMWFXcURnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/btl-thong-tin-youth-w--ha-noi-youth-w-25160264",
+            "time_status": "2026-08-23 10:55",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream76/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NTMgQU0maGFzaF92YWx1ZT1HVnFEbGRXYVFEdlVrM3h4ck1BUGt3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/volzhanin-orenburzhie-25155382",
+            "time_status": "2026-08-23 09:55",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream200/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NTUgQU0maGFzaF92YWx1ZT1McVZFZ1E4dmJtN3V6dVJJeExlMm5BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/chinese-taipei-w--iraq-w-25159919",
+            "time_status": "2026-08-23 09:55",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream207/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NTYgQU0maGFzaF92YWx1ZT1hMVovODYxVkVlK0dqWXVOT0RRMi93PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "Ice Hockey (8)",
+            "match_url": "https://dzritv.com/match/sheriff-gladiators-25160399",
+            "time_status": "Date & time",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream176/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NTcgQU0maGFzaF92YWx1ZT1MTHpDMGlaRXhhYmV3VVQ3cmx2VFZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/sheriff-gladiators-25160399",
+            "time_status": "2026-08-23 11:05",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream176/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NTggQU0maGFzaF92YWx1ZT1mTjRPcjIzN3ZHQ2JFaTdHSEtNbS9BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/skyhawks-thunderheads-25160288",
+            "time_status": "2026-08-23 11:05",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream214/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDc6NTkgQU0maGFzaF92YWx1ZT15UlFYYk84SEhWRkx3YXpuR2hOVzdnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/skycity-stampede-dunedin-thunder-25152552",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream341/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MDAgQU0maGFzaF92YWx1ZT1tOG9XallJaVhaVXRPTFFnQUZMam1BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/mhk-dinamo-shinnik-almaz-25154613",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream339/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MDMgQU0maGFzaF92YWx1ZT1FM2R3aXJmVHRKUTdWcDZuK2V4MGt3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/hitrye-lisy-svirepye-eji-25152548",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream215/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MDQgQU0maGFzaF92YWx1ZT1GeGp6amZlc1hCVU9tSmd1REI2eGx3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/sydney-bears-newcastle-north-stars-25153359",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream205/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MDUgQU0maGFzaF92YWx1ZT1ISFJhckpwVFpBZmxwWnl3bTY2YlFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/adelaide-adrenaline-perth-thunder-25152955",
+            "time_status": "2026-08-23 10:45",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream11/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MDYgQU0maGFzaF92YWx1ZT1GYWdjMUczemRKaWxvcmpPazhJZTN3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/brisbane-lightning-sydney-ice-dogs-25160064",
+            "time_status": "2026-08-23 09:45",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream203/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MDcgQU0maGFzaF92YWx1ZT11S3BSMG9jdE5rYmM0MXNCaVc2M21nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "Cyberfootball (36)",
+            "match_url": "https://dzritv.com/match/matrix---andrew-25160420",
+            "time_status": "Date & time",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream349/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MDggQU0maGFzaF92YWx1ZT1EK1Y3ZGJsTTlTekY3cFZMSXZ2YTBnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/matrix---andrew-25160420",
+            "time_status": "2026-08-23 11:05",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream349/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MTAgQU0maGFzaF92YWx1ZT1pYUJZVnZnL0pIZFdTbTFlY2hOV0l3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/luigi---pascal-25160348",
+            "time_status": "2026-08-23 11:01",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream348/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MTEgQU0maGFzaF92YWx1ZT1jSHkzV1JCLzMyWUdHRnVuS0tudzFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/nathan---vangogh-25160318",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream347/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MTIgQU0maGFzaF92YWx1ZT1WQmtMUkkvbC96RmFlMDYwY1BWemh3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/napoli-mko1919--sassuolo-upcake22-25160417",
+            "time_status": "2026-08-23 11:02",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream319/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MTMgQU0maGFzaF92YWx1ZT0vb1prdnBuV2srRFowV3lSbGZ4NTdBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/roma-kraftvk--bologna-bomb1to-25160416",
+            "time_status": "2026-08-23 11:02",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream315/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MTQgQU0maGFzaF92YWx1ZT0wZm9LU0l1MnRESXRCaHN0ZGNuSkN3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/castle-rcd-mallorca-hazard-real-sociedad-25160160",
+            "time_status": "2026-08-23 11:02",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream88/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MTUgQU0maGFzaF92YWx1ZT1CRHJxMHdaMnJmaVQ4c0pTOUlnRmRBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/bradley-real-betis-kylian-real-madrid-25160113",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream87/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MTcgQU0maGFzaF92YWx1ZT0yRUk3bUw1dVBVdmxEVHdaQ0ZkYUp3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/holis-sevilla-fc-hazard-real-sociedad-25160112",
+            "time_status": "2026-08-23 10:48",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream88/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MTggQU0maGFzaF92YWx1ZT0xbzBHQUx4UXlLVWpFS2NoVGloazVBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/atlas-real-betis-axel-real-madrid-25160110",
+            "time_status": "2026-08-23 10:46",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream89/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MTkgQU0maGFzaF92YWx1ZT1LQ0tFUDVQYlM0NVExQzF5dHFCOWRnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/castle-rcd-mallorca-kylian-real-madrid-25160015",
+            "time_status": "2026-08-23 10:46",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream87/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MjAgQU0maGFzaF92YWx1ZT1pb293VmNNem50M0VaT1FZNlNBUzhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/bradley-real-betis-holis-sevilla-fc-25160014",
+            "time_status": "2026-08-23 10:34",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream88/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MjEgQU0maGFzaF92YWx1ZT1CN25kY0szNEYvaS9JUzRqbjkvbWxBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/axel-atl-tico-de-madrid-enzo-fc-barcelona-25160013",
+            "time_status": "2026-08-23 10:32",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream89/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MjIgQU0maGFzaF92YWx1ZT0zelN3Ynk4bzV4MGhsUDJPUlZ6YnBBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/kylian-real-madrid-hazard-real-sociedad-25160010",
+            "time_status": "2026-08-23 10:32",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream87/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MjMgQU0maGFzaF92YWx1ZT0vS3JiNVl2dW1oSW03bTY1MGFkZmtBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/castle-rcd-mallorca-holis-sevilla-fc-25159804",
+            "time_status": "2026-08-23 10:20",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream88/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MjUgQU0maGFzaF92YWx1ZT00QXdKdnFhNEV6U2lldnF0dW8rRzBnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/atlas-real-betis-enzo-real-madrid-25159875",
+            "time_status": "2026-08-23 10:18",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream89/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MjYgQU0maGFzaF92YWx1ZT1mS3RhTUZXV1dFR3dpQ08rOGpsYXlBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/bradley-real-betis-hazard-real-sociedad-25159801",
+            "time_status": "2026-08-23 10:18",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream87/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MjcgQU0maGFzaF92YWx1ZT1INGFtdzZTWDRHbHo5WUR4SXltODVnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/holis-sevilla-fc-kylian-real-madrid-25159799",
+            "time_status": "2026-08-23 10:06",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream88/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MjggQU0maGFzaF92YWx1ZT1pM3RIbHRZZzdFeTRoSDZkT2pYSmFBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/castle-rcd-mallorca-bradley-real-betis-25159746",
+            "time_status": "2026-08-23 10:04",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream87/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MjkgQU0maGFzaF92YWx1ZT15dTlJSUFOazhzbGw3aUNBUHBkVVpRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/mei-olympique-de-marseille-ava-montpellier-25160215",
+            "time_status": "2026-08-23 11:01",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MzAgQU0maGFzaF92YWx1ZT1NVUcyVjd2VXpnMWMxdEdqa0NxZjl3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/demi-ol-lyonnes-alicia-paris-saint-germain-25160158",
+            "time_status": "2026-08-23 10:59",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream85/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MzEgQU0maGFzaF92YWx1ZT16OVI4b0tWbkc2Nk5WWHcyOE03eDFRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/mei-olympique-de-marseille-maddy-nantes-25160157",
+            "time_status": "2026-08-23 10:47",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MzMgQU0maGFzaF92YWx1ZT1UNHZzWngweXIrSlNqMWo5ZnFkL0NnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/demi-ol-lyonnes-lexi-dijon-25160154",
+            "time_status": "2026-08-23 10:45",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream85/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MzQgQU0maGFzaF92YWx1ZT0wejY2a0UrVVBzcUVLTnlDQ0pvUFN3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/maddy-everton-ava-spurs-25160151",
+            "time_status": "2026-08-23 10:33",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MzUgQU0maGFzaF92YWx1ZT1sbmlZSlN5NVd6NTJvM1hjcS9MNlJ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/lexi-manchester-utd-alicia-chelsea-25160007",
+            "time_status": "2026-08-23 10:31",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream85/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MzYgQU0maGFzaF92YWx1ZT1SVmVRSkZnNnp6enl1Vm5JS2t2MXVnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/mei-manchester-city-ava-spurs-25159871",
+            "time_status": "2026-08-23 10:19",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MzcgQU0maGFzaF92YWx1ZT1vMnU3Q1oxRWk3N3E5NUxEZU5SemRnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/demi-arsenal-alicia-chelsea-25159870",
+            "time_status": "2026-08-23 10:17",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream85/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MzggQU0maGFzaF92YWx1ZT13VjJtdmZNU3Y3WnFxQmVnMU15UkRRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/mei-manchester-city-maddy-everton-25159869",
             "time_status": "2026-08-23 10:05",
             "streams": [
                 {
@@ -1452,14 +984,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream501/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MTAgQU0maGFzaF92YWx1ZT1UaXVCK0UyU1VIL0cyS1paS2lqOWJRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6MzkgQU0maGFzaF92YWx1ZT0zZDRoUExaZFQ0YXJJUWYvZUVtWFJRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/otago-wellington-25139892",
-            "time_status": "2026-08-23 09:05",
+            "match_url": "https://dzritv.com/match/demi-arsenal-lexi-manchester-utd-25159868",
+            "time_status": "2026-08-23 10:03",
             "streams": [
                 {
                     "type": "iframe",
@@ -1467,13 +999,133 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream180/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MTEgQU0maGFzaF92YWx1ZT1IMzkwZ1hZaERhRWJaZVhrY3ZsUFd3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream85/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NDEgQU0maGFzaF92YWx1ZT1TbDFvbzlhUndmOHRYRTIxYTlVcjlRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
-            "title": "Cyberhockey (6)",
-            "match_url": "https://dzritv.com/match/philadelphia-obereg19--carolina-katai-25160018",
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/maddy-everton-ava-spurs-25159795",
+            "time_status": "2026-08-23 09:51",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NDIgQU0maGFzaF92YWx1ZT1vL0dTbkZrVmRiRjRjRWlLSnk1R0NBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/lexi-manchester-utd-alicia-chelsea-25159794",
+            "time_status": "2026-08-23 09:49",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream85/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NDMgQU0maGFzaF92YWx1ZT1YSjIwSDlsRlB6NDZHcHd2ZDk2TjdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/mei-manchester-city-ava-spurs-25159734",
+            "time_status": "2026-08-23 09:37",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream86/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NDQgQU0maGFzaF92YWx1ZT1zcThSdUdOeHV3NnYvV0VjWjMwbXlBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/netherlands-miracle--italy-white-p-25157671",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream285/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NDUgQU0maGFzaF92YWx1ZT1SYVdISVRFRGEvODIzVjhHRTlqbm9BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/brentford-arsenal-25160136",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream216/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NDYgQU0maGFzaF92YWx1ZT1OckQ2WGFmSkdPRE1tZ2QxZFRzVkhRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/newcastle-legion--brighton-alosdvxl-25160273",
+            "time_status": "2026-08-23 10:56",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream321/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NDcgQU0maGFzaF92YWx1ZT13QW5ldE5YbVlyb215ODZEZGtSK3JBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/man-united-dan-dragonio--aston-villa-vladl3n-25160272",
+            "time_status": "2026-08-23 10:56",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream318/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NDkgQU0maGFzaF92YWx1ZT1DTFBSMHRyZW9qMzJUOWRVdE8zS0dnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/barcelona-billy-alish--psg-smile-25158775",
+            "time_status": "2026-08-23 10:50",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream291/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NTAgQU0maGFzaF92YWx1ZT1Xc21zSkQ5WDN3TG14SjF5YVcwV3RnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "Table Tennis (18)",
+            "match_url": "https://dzritv.com/match/kvasnicka-r-hrabec-t-25153792",
             "time_status": "Date & time",
             "streams": [
                 {
@@ -1482,14 +1134,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream295/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MTIgQU0maGFzaF92YWx1ZT1nK0Y5TnJOUmEyMmtDMjR3YWFLYTN3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream326/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NTEgQU0maGFzaF92YWx1ZT1sT3RTNnRjZHNSYkVVUEZEVXkrTHpRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/philadelphia-obereg19--carolina-katai-25160018",
-            "time_status": "2026-08-23 10:05",
+            "match_url": "https://dzritv.com/match/kvasnicka-r-hrabec-t-25153792",
+            "time_status": "2026-08-23 11:00",
             "streams": [
                 {
                     "type": "iframe",
@@ -1497,14 +1149,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream295/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MTMgQU0maGFzaF92YWx1ZT1VdXBSa0JzMHNDYUtpcU1EWDNhQVpBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream326/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NTIgQU0maGFzaF92YWx1ZT1NV1FFaUY5dTJqU2xxd05xYWt5dDh3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/vancouver-boulghur--new-jersey-bohem-25159996",
-            "time_status": "2026-08-23 10:00",
+            "match_url": "https://dzritv.com/match/tsarev-d-kuznetsov-v-25153347",
+            "time_status": "2026-08-23 11:00",
             "streams": [
                 {
                     "type": "iframe",
@@ -1512,14 +1164,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream285/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MTQgQU0maGFzaF92YWx1ZT1PSUdLVTNSVFRzeURkTTh2R1lMS3p3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream281/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NTMgQU0maGFzaF92YWx1ZT12RmZ1ejArWnVFeW0rTWNCbStpU1hnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/boston-futsaler--carolina-polov-25160005",
-            "time_status": "2026-08-23 09:55",
+            "match_url": "https://dzritv.com/match/kolisnyk-o-zahradka-m-25153791",
+            "time_status": "2026-08-23 11:00",
             "streams": [
                 {
                     "type": "iframe",
@@ -1527,14 +1179,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream559/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MTUgQU0maGFzaF92YWx1ZT15ZTZQdGVhSFJER2hlcGsrSkd2YXB3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream325/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NTQgQU0maGFzaF92YWx1ZT1GQzFCYTA4b1ZjNnhyenVaVENXTVNRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/utah-nickelback1991--islanders-qwernety-25159885",
-            "time_status": "2026-08-23 09:55",
+            "match_url": "https://dzritv.com/match/turnaev-v-kochergin-v-25156253",
+            "time_status": "2026-08-23 11:00",
             "streams": [
                 {
                     "type": "iframe",
@@ -1542,14 +1194,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream322/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MTcgQU0maGFzaF92YWx1ZT1IWWNVUlJkblJoeU14dFM5L1FHRXRnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream551/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NTUgQU0maGFzaF92YWx1ZT12OG5QS1NBa1JzN09ETmlZNm95eEdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/colorado-master-ily--new-jersey-kasper-25159867",
-            "time_status": "2026-08-23 09:50",
+            "match_url": "https://dzritv.com/match/kanak-a-luksa-z-25153790",
+            "time_status": "2026-08-23 11:00",
             "streams": [
                 {
                     "type": "iframe",
@@ -1557,14 +1209,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream316/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MTggQU0maGFzaF92YWx1ZT1YYUNzbXFQMnJFYmk2TWpkWFZZVVdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream324/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NTcgQU0maGFzaF92YWx1ZT1rVDlyT2U2SDVoNEw3YWJ2bmdvVURRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/kupriyanov-yar-tampa-bay-koshcheev-k28-vegas-25159854",
-            "time_status": "2026-08-23 09:50",
+            "match_url": "https://dzritv.com/match/hyrsl-ji-cernik-jaromir-25153789",
+            "time_status": "2026-08-23 11:00",
             "streams": [
                 {
                     "type": "iframe",
@@ -1572,13 +1224,193 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream288/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MTkgQU0maGFzaF92YWx1ZT1KRTNFYlJvRVpkUTlxUEN0SWU0UGlBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream323/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NTggQU0maGFzaF92YWx1ZT00SFdkSTRKVkJiamFmalJCd2VYWGdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
-            "title": "Snooker (2)",
-            "match_url": "https://dzritv.com/match/wakelin-c-brown-j-25151366",
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/bondarenko-a-zubov-a-25154472",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream550/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDg6NTkgQU0maGFzaF92YWx1ZT1vb2NWSFZKMTRweTdkbGlTOGdCT0h3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/regner-t-svoboda-adam-25153788",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream311/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MDAgQU0maGFzaF92YWx1ZT0vKzZIaXdYR3dtV0doWWdoZjluK0R3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/ziakun-o-prylepa-d-25156748",
+            "time_status": "2026-08-23 10:58",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream287/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MDEgQU0maGFzaF92YWx1ZT11TjMrY2JyVUQvS0FDMUlxTm5jdjBnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/varlamov-o-kovshun-y-25159017",
+            "time_status": "2026-08-23 10:58",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream314/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MDIgQU0maGFzaF92YWx1ZT1FVzFiRUFvc2JtZjNjSFo2Ly9aMW1nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/kushnirenko-s-shyndel-i-25156750",
+            "time_status": "2026-08-23 10:58",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream313/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MDMgQU0maGFzaF92YWx1ZT1PczNRaU5aaG5wL2FLT0ZIVDJWYVF3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/dvoracek-a-abraham-p-25156749",
+            "time_status": "2026-08-23 10:58",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream312/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MDUgQU0maGFzaF92YWx1ZT1BWDdRZ3VZN1hqQUxhYkU5N005NHdBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/lutsyshyn-o-korobko-v-25156747",
+            "time_status": "2026-08-23 10:53",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream316/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MDcgQU0maGFzaF92YWx1ZT1zQXJ6bEtoRFFqemdscjc5ai9FT2R3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/smyk-v-kurtenko-a-25156746",
+            "time_status": "2026-08-23 10:48",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream292/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MDggQU0maGFzaF92YWx1ZT1QVWhLNmpuODJ3VXFremdLV1J6c0VnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/burmakin-u-bespalov-n-25156689",
+            "time_status": "2026-08-23 10:45",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream296/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MDkgQU0maGFzaF92YWx1ZT1HZkhWWFAzQ1Z4czlaM1IyeHJLVzlRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/golovachev-e-kutenkov-d-25155051",
+            "time_status": "2026-08-23 10:45",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream295/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MTAgQU0maGFzaF92YWx1ZT1Pc2dHTlAyclJHUWE4VS83RmIwdjZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/orlowski-p-brichacek-d-25156745",
+            "time_status": "2026-08-23 10:43",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream297/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MTEgQU0maGFzaF92YWx1ZT1DeXVLQTVESVRrYlFpKzJuWE9FNVp3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/mitla-o-smyrnov-m-25156744",
+            "time_status": "2026-08-23 10:33",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream293/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MTIgQU0maGFzaF92YWx1ZT1FdlZ4Q21BT0NtYmwvQ3luUTVwM1RBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "Cybersport (16)",
+            "match_url": "https://dzritv.com/match/tt-gaming-lgd-gaming-25160268",
             "time_status": "Date & time",
             "streams": [
                 {
@@ -1587,13 +1419,148 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MjAgQU0maGFzaF92YWx1ZT0zQ1BrK3RGTVFMMGpwRVZGRE01ZlNBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream218/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MTQgQU0maGFzaF92YWx1ZT0zQ3RIalQrMnRJTVhqMU44Ui9sMXNRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/wakelin-c-brown-j-25151366",
+            "match_url": "https://dzritv.com/match/tt-gaming-lgd-gaming-25160268",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream218/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MTUgQU0maGFzaF92YWx1ZT12YXU1aWlHdld5enRxOWJEbWp1VEhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/saudi-arabia-united-kingdom-25160245",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream68/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MTYgQU0maGFzaF92YWx1ZT1lN09IWmtYUjdrNEM1OGFUbWxiOXZnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/anima-gaming-team-fang-25160286",
+            "time_status": "2026-08-23 10:56",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream213/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MTcgQU0maGFzaF92YWx1ZT12WjVweEwrNXpBUlRrUWNwNkpoS2N3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/glare-gaming-team-argo-25159820",
+            "time_status": "2026-08-23 09:40",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream63/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MTggQU0maGFzaF92YWx1ZT01MnFPTndVRU5rcWNkZDBzWHZwTUl3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/tzni--disaccord-25160224",
+            "time_status": "2026-08-23 10:45",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream100/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MTkgQU0maGFzaF92YWx1ZT05dlJ2OUc5RE5meERPSkZYTllPbHdBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/team-rey-ac-esports-25160098",
+            "time_status": "2026-08-23 10:30",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream67/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MjEgQU0maGFzaF92YWx1ZT10WXBPWDRmM0RvVXBEUzBMODkzMDBnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/team-vision-team-spirit-25159761",
+            "time_status": "2026-08-23 10:17",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream65/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MjIgQU0maGFzaF92YWx1ZT1kemRJSHNieWxCRG1WUVUwNHM4aDRRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/rare-atom-vitalem-aerem-25160108",
+            "time_status": "2026-08-23 10:15",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream69/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MjMgQU0maGFzaF92YWx1ZT1OMjVSZjNwZVp2eHlSbG00TWkwSVlBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/wild-bats-lsg-25160006",
+            "time_status": "2026-08-23 10:01",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream98/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MjQgQU0maGFzaF92YWx1ZT02c0tBVndsbDM3dTNvNHV3QnpaVXpBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/to-champion-group-wlt-25160109",
             "time_status": "2026-08-23 10:00",
             "streams": [
                 {
@@ -1602,13 +1569,13 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MjEgQU0maGFzaF92YWx1ZT1GelVOMXpJTmo0cUpuN21jZERZRmVBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream97/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MjUgQU0maGFzaF92YWx1ZT15YlpPaGhVUVJLUXV0YnpvQTk4K1JnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/guodong-x-xinbo-w-25151365",
+            "match_url": "https://dzritv.com/match/lgd-gaming-kuaishow-gaming-25159984",
             "time_status": "2026-08-23 10:00",
             "streams": [
                 {
@@ -1617,58 +1584,13 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream40/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MjIgQU0maGFzaF92YWx1ZT0wRlRXbmk5bVlvWmpIdi9USjRaMjZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "Cyberbasketball (9)",
-            "match_url": "https://dzritv.com/match/boston-losmi--dallas-mavericks-chime-25160025",
-            "time_status": "Date & time",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream68/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MjMgQU0maGFzaF92YWx1ZT1ocHYycEtZME1YOEF6SUljSlRwdExnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream96/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MjYgQU0maGFzaF92YWx1ZT10WnNIeDIwSG1RL09rVThFYWZlTEFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/boston-losmi--dallas-mavericks-chime-25160025",
-            "time_status": "2026-08-23 10:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream68/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MjUgQU0maGFzaF92YWx1ZT02a2k4QWlOQU42ZHJQbWUwOEQxRGpnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/oklahoma-luxi--new-york-lionheart-25160024",
-            "time_status": "2026-08-23 10:00",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream290/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MjYgQU0maGFzaF92YWx1ZT03WVM0c1h1M01ZYzNqeEtwYld4NEFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/washington-amuralex--charlotte-rose-gravity00-25160017",
+            "match_url": "https://dzritv.com/match/dravari-ascend-low-static-25159882",
             "time_status": "2026-08-23 09:54",
             "streams": [
                 {
@@ -1677,14 +1599,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream286/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MjcgQU0maGFzaF92YWx1ZT03TXJUajlaU1NpLzU4VnRMcnFsM2xBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream64/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MjggQU0maGFzaF92YWx1ZT0yVmtKbnh3ejdyNmlwSk90SURPYjRRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/tatum-denver-nuggets-larry-dallas-mavericks-25159664",
-            "time_status": "2026-08-23 09:52",
+            "match_url": "https://dzritv.com/match/cursed-blessing-blood-flowers-25159876",
+            "time_status": "2026-08-23 09:54",
             "streams": [
                 {
                     "type": "iframe",
@@ -1692,14 +1614,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream39/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MjggQU0maGFzaF92YWx1ZT1CWEo2RStEQlVZRTZ6aEk3SXYvM0tnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream62/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MjkgQU0maGFzaF92YWx1ZT1oL1A5eWlZcWVlQ1lHWmdVcUxZL2FBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/tim-new-orleans-pelicans-jordan-indiana-pacers-25159663",
-            "time_status": "2026-08-23 09:52",
+            "match_url": "https://dzritv.com/match/hellspawn-stormriders-25159781",
+            "time_status": "2026-08-23 09:35",
             "streams": [
                 {
                     "type": "iframe",
@@ -1707,14 +1629,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream38/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MjkgQU0maGFzaF92YWx1ZT1TVFpmTUtWVXVMdHNRampvaEZkTkN3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream539/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MzAgQU0maGFzaF92YWx1ZT1Cc0lJREhuaEtrTUdCZnlxTXYreDhRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/bars-rgeu-thelast-answer47--chelbasket-iconic-wicker1-0-25159880",
-            "time_status": "2026-08-23 09:50",
+            "match_url": "https://dzritv.com/match/family-esports-whitethunder-25159780",
+            "time_status": "2026-08-23 09:30",
             "streams": [
                 {
                     "type": "iframe",
@@ -1722,14 +1644,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream320/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MzAgQU0maGFzaF92YWx1ZT03ak1tT0ZrRW9nWUI3Wmg4MWNqRzNnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream537/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MzEgQU0maGFzaF92YWx1ZT1YODl3bTFva1ZGS3dra2wvVWhDYk1RPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/barcelona-ttv-romchik-8--zenit-sirgreggmind-25159881",
-            "time_status": "2026-08-23 09:50",
+            "match_url": "https://dzritv.com/match/bacon-time-earena-25159766",
+            "time_status": "2026-08-23 09:15",
             "streams": [
                 {
                     "type": "iframe",
@@ -1737,43 +1659,13 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream321/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MzEgQU0maGFzaF92YWx1ZT11T0Z2TmxUQzRseC9oQks0Z1dDV09nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream343/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MzIgQU0maGFzaF92YWx1ZT0zZFlzOUFFNXVJSmJFTDJhZitRUUdBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/panathinaikos-kefa--bayern-riodan-25159865",
-            "time_status": "2026-08-23 09:45",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream293/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MzMgQU0maGFzaF92YWx1ZT12K1NrbzNTVmpZYmdldjVlUmpDT2N3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/monaco-aiger--olympiacos-satamor-25159864",
-            "time_status": "2026-08-23 09:45",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream291/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MzQgQU0maGFzaF92YWx1ZT1GUzFTVG9qb1ZaT2pGUjJvd0FBS0RBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "Baseball (5)",
-            "match_url": "https://dzritv.com/match/kiwoom-heroes-kia-tigers-25159656",
+            "title": "Cyberbasketball (7)",
+            "match_url": "https://dzritv.com/match/khimki-goatedyulcha--bars-rgeu-thelast-answer47-25160305",
             "time_status": "Date & time",
             "streams": [
                 {
@@ -1782,14 +1674,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream201/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MzUgQU0maGFzaF92YWx1ZT0rU1p0OUhESzQ5Z1I1eWQ2aTI4WWtBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream289/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MzMgQU0maGFzaF92YWx1ZT1vUXoyM2NLZDB2aDRNdHVDbEdya1hRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/kiwoom-heroes-kia-tigers-25159656",
-            "time_status": "2026-08-23 09:00",
+            "match_url": "https://dzritv.com/match/khimki-goatedyulcha--bars-rgeu-thelast-answer47-25160305",
+            "time_status": "2026-08-23 11:00",
             "streams": [
                 {
                     "type": "iframe",
@@ -1797,7 +1689,127 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream201/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MzYgQU0maGFzaF92YWx1ZT15N0o0QVZ2Z1Y4Q1d5QkhBaUxnY3hBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream289/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MzQgQU0maGFzaF92YWx1ZT1aaFRvOEEwaGl2K2xoV1c0eGZ1VWd3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/orlando-quaternaryyy--washington-amuralex-25160397",
+            "time_status": "2026-08-23 10:50",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream290/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MzUgQU0maGFzaF92YWx1ZT1pai82V3B3eFhXU3lHTkJNTExpS0ZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/oklahoma-yangrainmaker--orlando-panteraxball-25160285",
+            "time_status": "2026-08-23 10:50",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MzYgQU0maGFzaF92YWx1ZT1vUm8xcjZlWS9admxGRGo1b2Y0czRRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/new-york-lionheart--boston-losmi-25160211",
+            "time_status": "2026-08-23 10:35",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream66/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MzcgQU0maGFzaF92YWx1ZT1pblJLSDd3VUpjWnRraGg0U2JFOTl3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/tatum-brooklyn-nets-walt-golden-state-warriors-25160103",
+            "time_status": "2026-08-23 10:48",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream39/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6MzggQU0maGFzaF92YWx1ZT0yVGRtdUIvdWdjUm0wakNCdjZrZjVBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/tim-new-york-knicks-jordan-los-angeles-lakers-25160102",
+            "time_status": "2026-08-23 10:48",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream38/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NDAgQU0maGFzaF92YWx1ZT1wVEsyWGp4TnNYR21lMVR6SEVRZTB3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/olympiacos-satamor--real-m-shustryak-25160212",
+            "time_status": "2026-08-23 10:35",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream99/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NDEgQU0maGFzaF92YWx1ZT14ZEJpOE5YalZsWFhNWmVEL1NyS1d3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "Baseball (5)",
+            "match_url": "https://dzritv.com/match/rakuten-golden-eagles-saitama-seibu-lions-25153834",
+            "time_status": "Date & time",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NDIgQU0maGFzaF92YWx1ZT1SNEVxWjduQWxhRG5VWlgya1ZZSVlnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/rakuten-golden-eagles-saitama-seibu-lions-25153834",
+            "time_status": "2026-08-23 11:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NDMgQU0maGFzaF92YWx1ZT13WmFNd0JBdWp0UXM1ckxrc3d4VHhBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
@@ -1812,7 +1824,7 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream340/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MzcgQU0maGFzaF92YWx1ZT0zb1dOc0hyTW4rdlZoeUtsOFYxbXZnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream340/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NDQgQU0maGFzaF92YWx1ZT1zbXhxSGptZFlRUFFtRk9HdDBRRElBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
@@ -1827,14 +1839,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MzggQU0maGFzaF92YWx1ZT1kclMyYkcxT1hsYjdIdFFYTzRpbHNRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream6/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NDUgQU0maGFzaF92YWx1ZT0yNjJEaGJJNXFxbVpZbW5NaFdGRmZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/fukuoka-s-hawks-orix-buffaloes-25153831",
-            "time_status": "2026-08-23 08:00",
+            "match_url": "https://dzritv.com/match/kiwoom-heroes-kia-tigers-25159656",
+            "time_status": "2026-08-23 09:00",
             "streams": [
                 {
                     "type": "iframe",
@@ -1842,7 +1854,7 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream12/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6MzkgQU0maGFzaF92YWx1ZT1pZmdHV25XeVJxcG9QdjZRa09WbG9BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream201/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NDYgQU0maGFzaF92YWx1ZT15SzZzNFpKMUtEZjhSKzZOR3ZnS1V3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
@@ -1857,13 +1869,253 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream18/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6NDEgQU0maGFzaF92YWx1ZT15MEVsTVlka0swekVNOTgzYVJEblZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream18/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NDggQU0maGFzaF92YWx1ZT1wb05PTXhrYys3cnIybjJVaXloV2ZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "Beach Volleyball (2)",
+            "match_url": "https://dzritv.com/match/saric-plesiutschnig-rihs-hofstetter-25160266",
+            "time_status": "Date & time",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream217/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NDkgQU0maGFzaF92YWx1ZT1uOGNyTWZrUzJ6dmp0bWd3OGQ2M0ZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/saric-plesiutschnig-rihs-hofstetter-25160266",
+            "time_status": "2026-08-23 10:55",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream217/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NTAgQU0maGFzaF92YWx1ZT1aVWNTeWl1bE5xaDNJZ3dsb1czNlV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/schottl-hohenauer-e-freiberger-hammarberg-25160265",
+            "time_status": "2026-08-23 10:55",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream206/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NTEgQU0maGFzaF92YWx1ZT1PZWFEL3VwVkRVUkdxSFoxZzNnWkFRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "Cyberhockey (5)",
+            "match_url": "https://dzritv.com/match/boston-astrid--philadelphia-obereg19-25160260",
+            "time_status": "Date & time",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream283/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NTIgQU0maGFzaF92YWx1ZT1oVHZZTWRYR0drRWdWYzE1eEo0bXFRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/boston-astrid--philadelphia-obereg19-25160260",
+            "time_status": "2026-08-23 10:55",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream283/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NTMgQU0maGFzaF92YWx1ZT03bTE0NTJJRTZQTnR1UFVCMk56NjB3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/tampa-bay-lunjj--vancouver-boulghur-25160259",
+            "time_status": "2026-08-23 10:50",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream317/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NTUgQU0maGFzaF92YWx1ZT1KRzB2b1ljTHkwa1B4WHZzSnZQVkZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/popov-vrs-philadelphia-koshcheev-k28-vegas-25160244",
+            "time_status": "2026-08-23 10:50",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream286/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NTYgQU0maGFzaF92YWx1ZT1qUXJnV05vTFBHR3l1aUdiYU03U3JBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/islanders-qwernety--philadelphia-fox72-25160234",
+            "time_status": "2026-08-23 10:45",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream327/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NTcgQU0maGFzaF92YWx1ZT1MMmVjeCtMeFluS2tVSzB4SEZSaDlRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/new-jersey-kasper--carolina-w1nchester-25160213",
+            "time_status": "2026-08-23 10:40",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream288/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NTggQU0maGFzaF92YWx1ZT1adW9ZL0dSdHhZai9EbGlKbzNGMnR3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "Futsal (1)",
+            "match_url": "https://dzritv.com/match/tachikawa-athletic-w--bardral-urayasu-w-25156285",
+            "time_status": "Date & time",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream345/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MDk6NTkgQU0maGFzaF92YWx1ZT1OVW5ISVFmZ2x3VUFZaG9QWjd6bmZRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/tachikawa-athletic-w--bardral-urayasu-w-25156285",
+            "time_status": "2026-08-23 10:30",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream345/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MTA6MDAgQU0maGFzaF92YWx1ZT01Ujg4MEEwQTBsNkFyOXdJSHBwdkVnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "Rugby (1)",
+            "match_url": "https://dzritv.com/match/sydney-roosters-wests-tigers-25140269",
+            "time_status": "Date & time",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream501/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MTA6MDIgQU0maGFzaF92YWx1ZT1wdmo2L3N1end0UktkbitnRTI1VEhnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/sydney-roosters-wests-tigers-25140269",
+            "time_status": "2026-08-23 10:05",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream501/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MTA6MDMgQU0maGFzaF92YWx1ZT1sUTBxMFZpaWhzS21GTFA5Y3VPZGdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "Snooker (2)",
+            "match_url": "https://dzritv.com/match/wakelin-c-brown-j-25151366",
+            "time_status": "Date & time",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MTA6MDQgQU0maGFzaF92YWx1ZT1ud2hWZU9VMWQ1R1g1WFhWRjBqSEZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/wakelin-c-brown-j-25151366",
+            "time_status": "2026-08-23 10:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MTA6MDUgQU0maGFzaF92YWx1ZT1TZ1VialZHSW5QOTFTYUp4UUJsQVBRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                }
+            ]
+        },
+        {
+            "title": "VIEW ONLINE",
+            "match_url": "https://dzritv.com/match/guodong-x-xinbo-w-25151365",
+            "time_status": "2026-08-23 10:00",
+            "streams": [
+                {
+                    "type": "iframe",
+                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
+                },
+                {
+                    "type": "hls",
+                    "url": "https://j1.soft4game.com/o22/stream40/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MTA6MDYgQU0maGFzaF92YWx1ZT1JNXBvTlMvM1h2K2dudG5BRnFIUUJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "Tennis (1)",
-            "match_url": "https://dzritv.com/match/kasianov-denis-ziablitskii-dmitrii-25159563",
+            "match_url": "https://dzritv.com/match/ziablitskii-dmitrii-kasianov-denis-25160225",
             "time_status": "Date & time",
             "streams": [
                 {
@@ -1872,14 +2124,14 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream270/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6NDIgQU0maGFzaF92YWx1ZT1WRk9nN2RTeFU3NkxpYzFqSmlpaHB3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream255/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MTA6MDcgQU0maGFzaF92YWx1ZT1HSlkyNldvbHRLQWV1S1VKbExyb1NnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
             "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/kasianov-denis-ziablitskii-dmitrii-25159563",
-            "time_status": "2026-08-23 08:30",
+            "match_url": "https://dzritv.com/match/ziablitskii-dmitrii-kasianov-denis-25160225",
+            "time_status": "2026-08-23 10:00",
             "streams": [
                 {
                     "type": "iframe",
@@ -1887,12 +2139,12 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream270/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6NDMgQU0maGFzaF92YWx1ZT1NenBMalZES2pCSDBYOTNWMzhQeENRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream255/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MTA6MDggQU0maGFzaF92YWx1ZT01K3Z5aGwzMUVldlhoQVNrTzRZekFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
         {
-            "title": "Cricket (6)",
+            "title": "Cricket (2)",
             "match_url": "https://dzritv.com/match/sri-lanka-india-25139695",
             "time_status": "Date & time",
             "streams": [
@@ -1902,7 +2154,7 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream338/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6NDQgQU0maGFzaF92YWx1ZT1haHpxK1crZTFhT3F5OHU2OFIvdzhRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream338/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MTA6MTAgQU0maGFzaF92YWx1ZT1ZckxxTjJiVmRITlMrL0dES2QyVmFnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
@@ -1917,7 +2169,7 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream338/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6NDUgQU0maGFzaF92YWx1ZT1uaE5vSkNmbnAxbmJlOWg4bXdQNEl3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream338/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MTA6MTEgQU0maGFzaF92YWx1ZT1OamxQN0E2QzluajIxRGwxbklHKzdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         },
@@ -1932,67 +2184,7 @@
                 },
                 {
                     "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream256/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6NDYgQU0maGFzaF92YWx1ZT1sVmw2T1VwcnBydWYrY3ZVMkdpRlZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/ipswich-w--vainnum-manli-w-25159320",
-            "time_status": "2026-08-23 07:31",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream337/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6NDcgQU0maGFzaF92YWx1ZT1DNmswbHNJZGNKSlJvOHkxNnZBcUdRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/western-suburbs-w--valley-w-25159368",
-            "time_status": "2026-08-23 07:30",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6NDggQU0maGFzaF92YWx1ZT01dDZSKzdrTVdsL2dwb2dEWDROWDZBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/gold-coast-w--sunshine-coast-w-25155879",
-            "time_status": "2026-08-23 07:30",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream339/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6NDkgQU0maGFzaF92YWx1ZT1DSGZvcmtrbHYvWXZoUmpkVXBQR0dBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
-                }
-            ]
-        },
-        {
-            "title": "VIEW ONLINE",
-            "match_url": "https://dzritv.com/match/gold-coast-university-queensland-25154633",
-            "time_status": "2026-08-23 07:30",
-            "streams": [
-                {
-                    "type": "iframe",
-                    "url": "https://www.googletagmanager.com/ns.html?id=GTM-NBKZ3PS"
-                },
-                {
-                    "type": "hls",
-                    "url": "https://j1.soft4game.com/o22/stream341/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDY6MTk6NTAgQU0maGFzaF92YWx1ZT0yUldWd3RNZWxXckNNL1lJdGdSV2NnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
+                    "url": "https://j1.soft4game.com/o22/stream256/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI2IDc6MTA6MTIgQU0maGFzaF92YWx1ZT1YUEVueU15bVBhWUZBUU5XU0hzM0lBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI="
                 }
             ]
         }
